@@ -2,7 +2,7 @@
 
 This is a simple arithmetic calculator built with REACT.JS library. 
 
-Live version deployed at [vercel](https://calc-ijaapp.vercel.app/)
+Live version deployed at [Vercel-CLI](https://ijaapp-calc.vercel.app/)
 
 To run it on your local machine clone into the repo, then type: 
 
